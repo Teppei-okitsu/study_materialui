@@ -1,3 +1,16 @@
+# メモ
+node.jsインストールからnpmコマンドが使えるようにする
+https://hitoto28.hatenablog.com/entry/2018/07/16/020000
+
+reactのアプリを作成
+create-react-app
+
+MaterialUI関連のインストール
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install fontsource-roboto
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
